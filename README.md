@@ -10,6 +10,6 @@ Test
 
 Maintenant on modifie depuis GitHu
 
-Mais aussi de puis ma machine local
+Mais aussi de puis ma machine locale et c'est gutent tag
 :
 b
